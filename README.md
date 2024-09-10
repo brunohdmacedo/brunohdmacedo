@@ -1,4 +1,4 @@
-[![Alt text](https://brunohdmacedo.github.io/img/bhdm.png)](https://brunohdmacedo.github.io/ "My WebSpace")
+<!-- [![Alt text](https://brunohdmacedo.github.io/img/bhdm.png)](https://brunohdmacedo.github.io/ "My WebSpace") -->
 
 <h1 align="center">Hi, I'm Bruno H.D. Macedo! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunohdmacedo"  />
