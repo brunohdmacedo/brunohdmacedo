@@ -13,15 +13,24 @@
 
 <!-- ![snake animation](https://github.com/brunohdmacedo/brunohdmacedo/blob/output/github-contribution-grid-snake2.svg)-->
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 50%;">
-         <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;"><img align="left" width="20%" alt="Applied Computing Laboratory (LACA)" src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png"></a>
-    </div>
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+    <!-- Centralized Logo -->
+    <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;">
+        <img width="20%" alt="Applied Computing Laboratory (LACA)" src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png">
+    </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=radical)
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunohdmacedo )](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- Stats Section -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+
+<!-- Optional WakaTime Stats -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunohdmacedo" alt="WakaTime stats">
+</p>
+-->
+
  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;"> 
          <h3>🌐 Let's Connect</h3>
         <p>
