@@ -15,29 +15,32 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 45%;">
-         <!-- <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg"> -->
+    <div style="flex: 1; max-width: 50%;">
+         <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;"><img align="left" width="20%" alt="Applied Computing Laboratory (LACA)" src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png"></a>
     </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=radical)
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunohdmacedo )](https://github.com/anuraghazra/github-readme-stats)-->
  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;"> 
-        <!-- <h3>🌐 Let's Connect and Grow Together!</h3>
+         <h3>🌐 Let's Connect</h3>
         <p>
-            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
+            <a href="https://br.linkedin.com/in/bruno-hd-macedo" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
             </a>
             </a>
-            <a href="https://www.youtube.com/@OfficialCodeVoyage" target="_blank" style="text-decoration: none;">
+            <a href="https://www.youtube.com/user/GKGamerKING" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
             </a>
-            <a href="https://www.instagram.com/officialcodevoyage/" target="_blank" style="text-decoration: none;">
+            <a href="https://www.instagram.com/brunohdmacedo/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
+             <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=002BDE58B97AE81355100D484F82BABF#" target="_blank" style="text-decoration: none;">
+                <img width="10%" src="https://brunohdmacedo.github.io/img/social/icon-curriculo-lattes.png" alt="Lattes">
+            </a>  
         </p>
         
-  <h3>✨ Fun Facts</h3>
+  <!-- <h3>✨ Fun Facts</h3>
         <ul>
             <li>I love Hackathons, Swimming and Tennis.</li>
             <li>I’m on a journey to build a big house in Alaska!</li>
