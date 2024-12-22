@@ -1,0 +1,28 @@
+name: Metrics Workflow with Snake Progress
+
+on:
+  push:
+    branches:
+      - main  # Ou qualquer outra branch que você deseja monitorar
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install tqdm  # Instalar tqdm para barra de progresso
+
+      - name: Run snake metrics script
+        run: |
+          python path/to/your/snake_metrics_script.py
