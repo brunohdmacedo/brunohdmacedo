@@ -54,3 +54,41 @@ jobs:
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
           plugin_leetcode_user: officialcodevoyage
+
+
+name: Metrics Workflow
+
+on:
+  push:
+    branches:
+      - main  # ou qualquer outra branch de sua escolha
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest  # Ou outra versão do sistema operacional desejada
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'  # ou qualquer versão que você use
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt  # Adapte de acordo com seu projeto
+
+      - name: Run metrics script
+        run: |
+          python path/to/your/metrics_script.py  # Execute o script que gera as métricas
+
+      - name: Upload metrics to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: metrics
+          path: path/to/metrics/results.csv  # Exemplo de onde os resultados podem ser armazenados
