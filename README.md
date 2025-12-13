@@ -1,11 +1,9 @@
-<p align="center">
+
+<h1 align="center">Hi, I'm </h1><p align="center">
   <a href="https://brunohdmacedo.github.io/" title="My WebSpace">
-    <img src="https://brunohdmacedo.github.io/img/bhdm.png" alt="Alt text">
+    <img src="https://brunohdmacedo.github.io/img/bhdm.png" alt="Alt text"> 👋
   </a>
 </p>
-
-
-<h1 align="center">Hi, I'm Bruno H.D. Macedo! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunohdmacedo"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
@@ -16,15 +14,28 @@
   </a>
 </p>
 
-<!-- ![snake animation](https://github.com/brunohdmacedo/brunohdmacedo/blob/output/github-contribution-grid-snake2.svg) -->
+<!-- Snake animation (optional) -->
+<!--
+<p align="center">
+  <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation">
+</p>
+-->
+
 <!-- Stats Section -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact"
+       alt="Top Languages" height="165">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=radical"
+       alt="GitHub Stats" height="165">
+</p>
+
 
 <!-- Optional WakaTime Stats -->
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunohdmacedo" alt="WakaTime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunohdmacedo"
+       alt="WakaTime Stats">
 </p>
 -->
 
@@ -58,9 +69,30 @@
         <p>
 Engineering Physics student at UNILA, I emphasize my interest in interdisciplinary subjects and acquiring diverse skills. I have participated in courses in the USA and Brazil, with proficiency in C, PHP, and Java, as well as experience in web development projects. My passion for research is reflected in projects such as *"Exoplanet Identification with Machine Learning"*, *"Machine Learning Algorithms to Assist in Predicting New Materials"*, and *"Evaluation of Machine Learning Algorithms for Assisting in New Material Predictions"*. I have worked as a teaching assistant in Calculus, Basic Mathematics, and General Physics courses. I received the Best Extension Project Award in 2023. Currently, I am developing AI models for the detection of new materials. I am a member of the *Time Series Data Mining* research group at the Applied Computing Laboratory (LACA) at UNILA, contributing to significant projects. My commitment is to broaden horizons and contribute to science and technology. I have also held leadership positions in the Physics Engineering Academic Center. 
         </p>
-        <!-- <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
-        </p> -->
+  <!-- 🔹 Added affiliation text -->
+  <p>
+    I am an active member of the <b>Applied Computing Laboratory (LACA)</b>, the 
+    <b>Interdisciplinary Laboratory of Materials Characterization and Computational Modeling (LIMCCA)</b>, 
+    and the <b>GANEL Research Group</b>, where I engage in interdisciplinary research involving applied computing, 
+    computational modeling, materials science, and data-driven scientific analysis.
+  </p>
+  <p align="center">
+    <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank">
+      <img src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png"
+           alt="LACA" width="20%">
+    </a>
+    <a href="https://brunohdmacedo.github.io" target="_blank">
+      <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/logo-bhdm.png?raw=true"
+           alt="GANEL" width="20%">
+    </a>
+    <a href="https://divulga.unila.edu.br/limcca/" target="_blank">
+      <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/limcca.png?raw=true"
+           alt="LIMCCA" width="20%">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/ganel.png?raw=true"
+           alt="LIMCCA" width="20%">
+    </a>
+  </p>
     </div>
 </div>
