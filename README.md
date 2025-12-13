@@ -1,4 +1,9 @@
-[![Alt text](https://brunohdmacedo.github.io/img/bhdm.png)](https://brunohdmacedo.github.io/ "My WebSpace")
+<p align="center">
+  <a href="https://brunohdmacedo.github.io/" title="My WebSpace">
+    <img src="https://brunohdmacedo.github.io/img/bhdm.png" alt="Alt text">
+  </a>
+</p>
+
 
 <h1 align="center">Hi, I'm Bruno H.D. Macedo! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunohdmacedo"  />
