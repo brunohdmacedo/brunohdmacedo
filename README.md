@@ -18,6 +18,13 @@
     <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;">
         <img width="20%" alt="Applied Computing Laboratory (LACA)" src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png">
     </a>
+      <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;">
+        <img width="20%" alt="Applied Computing Laboratory (LACA)" src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/logo-bhdm.png?raw=true">
+    </a>
+      </a>
+      <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;">
+        <img width="20%" alt="Applied Computing Laboratory (LACA)" src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/limcca.png?raw=true">
+    </a>
 </div>
 
 <!-- Stats Section -->
