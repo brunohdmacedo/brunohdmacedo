@@ -1,4 +1,4 @@
-<!-- [![Alt text](https://brunohdmacedo.github.io/img/bhdm.png)](https://brunohdmacedo.github.io/ "My WebSpace") -->
+[![Alt text](https://brunohdmacedo.github.io/img/bhdm.png)](https://brunohdmacedo.github.io/ "My WebSpace")
 
 <h1 align="center">Hi, I'm Bruno H.D. Macedo! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunohdmacedo"  />
@@ -11,22 +11,7 @@
   </a>
 </p>
 
-![snake animation](https://github.com/brunohdmacedo/brunohdmacedo/blob/output/github-contribution-grid-snake2.svg)
-
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <!-- Centralized Logo -->
-    <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;">
-        <img width="20%" alt="Applied Computing Laboratory (LACA)" src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png">
-    </a>
-      <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;">
-        <img width="20%" alt="Applied Computing Laboratory (LACA)" src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/logo-bhdm.png?raw=true">
-    </a>
-      </a>
-      <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank" style="text-decoration: none;">
-        <img width="20%" alt="Applied Computing Laboratory (LACA)" src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/limcca.png?raw=true">
-    </a>
-</div>
-
+<!-- ![snake animation](https://github.com/brunohdmacedo/brunohdmacedo/blob/output/github-contribution-grid-snake2.svg) -->
 <!-- Stats Section -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
