@@ -1,93 +1,185 @@
 
-<h1 align="center">Hi, I'm </h1><p align="center">
-  <a href="https://brunohdmacedo.github.io/" title="My WebSpace">
-    <img src="https://brunohdmacedo.github.io/img/bhdm.png" alt="Alt text"> 👋
+<h1 align="center">Hi, I'm Bruno H. D. Macedo! 👋</h1>
+
+<p align="center">
+  <a href="https://brunohdmacedo.tech" title="Personal Website">
+    <img src="https://brunohdmacedo.github.io/img/bhdm.png" alt="Bruno H. D. Macedo" width="180">
   </a>
 </p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunohdmacedo"  />
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<p align="center">
+  <strong>Physical Engineer | MSc Student in Applied Physics | Scientific Researcher</strong><br>
+  Universidade Federal da Integração Latino-Americana (UNILA)
+</p>
+
+<p align="center">
+  <a href="https://brunohdmacedo.tech">Personal Website</a> ·
+  <a href="https://brunohdmacedo.tech/bruma/">Bruma DFT</a> ·
+  <a href="https://github.com/brunohdmacedo">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunohdmacedo" alt="Profile Visitors">
+</p>
+
+---
+
+<h2 align="center">🔬 About Me</h2>
+
+<p align="justify">
+I am a Physical Engineer graduated from the Federal University of Latin American Integration (UNILA) and currently pursuing a Master's degree in Applied Physics (PPGFISA/UNILA), supported by a CNPq scholarship.
+</p>
+
+<p align="justify">
+My academic and research background combines Computational Physics, Materials Science, Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I have experience in scientific research involving time-series data mining, predictive models for materials discovery, and first-principles calculations based on Density Functional Theory (DFT).
+</p>
+
+<p align="justify">
+My research interests focus on the investigation of advanced materials, particularly metal hydrides and hydrogen storage systems, exploring their structural, thermodynamic, electronic, and mechanical properties through computational simulations.
+</p>
+
+<p align="justify">
+Throughout my academic journey, I have participated in undergraduate research projects, scientific initiation programs, extension activities, and teaching assistance in Calculus, Basic Mathematics, and General Physics. My work has received recognition at scientific events, including an Honorable Mention at SIEPE 2024 for research involving Machine Learning applied to materials discovery and the 2023 CREA-PR Best Extension Project Award.
+</p>
+
+<p align="justify">
+I am particularly interested in interdisciplinary research and in developing computational tools that connect Physics, Mathematics, Artificial Intelligence, and Materials Science to solve scientific and technological challenges.
+</p>
+
+---
+
+<h2 align="center">🧪 Research Interests</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computational_Physics-0D1117?style=for-the-badge" alt="Computational Physics">
+  <img src="https://img.shields.io/badge/Density_Functional_Theory-0D1117?style=for-the-badge" alt="DFT">
+  <img src="https://img.shields.io/badge/Materials_Science-0D1117?style=for-the-badge" alt="Materials Science">
+  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Data_Science-0D1117?style=for-the-badge" alt="Data Science">
+  <img src="https://img.shields.io/badge/Hydrogen_Storage-0D1117?style=for-the-badge" alt="Hydrogen Storage">
+  <img src="https://img.shields.io/badge/Scientific_Computing-0D1117?style=for-the-badge" alt="Scientific Computing">
+</p>
+
+---
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<h3 align="center">Programming and Development</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cs,c,cpp,css,electron,gcp,gitlab,androidstudio,html,java,git,github,js,linux,php,anaconda,py" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,html,css,php,git,github,linux,anaconda,arduino,gcp,electron" alt="Programming Languages and Development Tools">
   </a>
 </p>
 
-<!-- Snake animation (optional) -->
-<!--
+<h3 align="center">Scientific Computing and Research</h3>
+
 <p align="center">
-  <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation">
+  <img src="https://img.shields.io/badge/CASTEP-DFT-blue?style=for-the-badge" alt="CASTEP">
+  <img src="https://img.shields.io/badge/VESTA-Visualization-purple?style=for-the-badge" alt="VESTA">
+  <img src="https://img.shields.io/badge/Python-Scientific_Computing-yellow?style=for-the-badge&logo=python" alt="Python Scientific Computing">
+  <img src="https://img.shields.io/badge/Machine_Learning-AI-orange?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/LaTeX-Scientific_Writing-green?style=for-the-badge&logo=latex" alt="LaTeX">
 </p>
--->
 
-<!-- Stats Section --> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact" alt="Top Languages"> </p> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=radical" alt="GitHub Stats"> </p>
+---
 
+<h2 align="center">🚀 Featured Projects</h2>
 
-<!-- Optional WakaTime Stats -->
-<!--
+<h3>🔬 Bruma DFT — Computational Materials Analysis</h3>
+
+<p align="justify">
+Bruma DFT is a computational project focused on processing and visualizing CASTEP simulation results, providing tools for analyzing electronic and structural properties of materials.
+</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunohdmacedo"
-       alt="WakaTime Stats">
+  <a href="https://brunohdmacedo.tech/bruma/">
+    <img src="https://img.shields.io/badge/Website-Bruma_DFT-blue?style=for-the-badge" alt="Bruma DFT Website">
+  </a>
+  <a href="https://brunohdmacedo.tech/bruma/tutorial.html">
+    <img src="https://img.shields.io/badge/Documentation-Tutorial-green?style=for-the-badge" alt="Documentation">
+  </a>
+  <a href="https://github.com/brunohdmacedo/bruma-dft">
+    <img src="https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github" alt="Source Code">
+  </a>
 </p>
--->
 
- <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;"> 
-         <h3>🌐 Let's Connect</h3>
-        <p>
-            <a href="https://br.linkedin.com/in/bruno-hd-macedo" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
-            </a>
-            </a>
-            <a href="https://www.youtube.com/user/GKGamerKING" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
-            </a>
-            <a href="https://www.instagram.com/brunohdmacedo/" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
-            </a>
-             <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=002BDE58B97AE81355100D484F82BABF#" target="_blank" style="text-decoration: none;">
-                <img width="10%" src="https://brunohdmacedo.github.io/img/social/icon-curriculo-lattes.png" alt="Lattes">
-            </a>  
-        </p>
-        
-  <!-- <h3>✨ Fun Facts</h3>
-        <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
-        </ul> -->
-        
-  <h3>🧑‍💻 About Me</h3>
-        <p>
-Engineering Physics student at UNILA, I emphasize my interest in interdisciplinary subjects and acquiring diverse skills. I have participated in courses in the USA and Brazil, with proficiency in C, PHP, and Java, as well as experience in web development projects. My passion for research is reflected in projects such as *"Exoplanet Identification with Machine Learning"*, *"Machine Learning Algorithms to Assist in Predicting New Materials"*, and *"Evaluation of Machine Learning Algorithms for Assisting in New Material Predictions"*. I have worked as a teaching assistant in Calculus, Basic Mathematics, and General Physics courses. I received the Best Extension Project Award in 2023. Currently, I am developing AI models for the detection of new materials. I am a member of the *Time Series Data Mining* research group at the Applied Computing Laboratory (LACA) at UNILA, contributing to significant projects. My commitment is to broaden horizons and contribute to science and technology. I have also held leadership positions in the Physics Engineering Academic Center. 
-        </p>
-  <!-- 🔹 Added affiliation text -->
-  <p>
-    I am an active member of the <b>Applied Computing Laboratory (LACA)</b>, the 
-    <b>Interdisciplinary Laboratory of Materials Characterization and Computational Modeling (LIMCCA)</b>, 
-    and the <b>GANEL Research Group</b>, where I engage in interdisciplinary research involving applied computing, 
-    computational modeling, materials science, and data-driven scientific analysis.
-  </p>
-  <p align="center">
-    <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank">
-      <img src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png"
-           alt="LACA" width="20%">
-    </a>
-    <a href="https://brunohdmacedo.github.io" target="_blank">
-      <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/logo-bhdm.png?raw=true"
-           alt="GANEL" width="20%">
-    </a>
-    <a href="https://divulga.unila.edu.br/limcca/" target="_blank">
-      <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/limcca.png?raw=true"
-           alt="LIMCCA" width="20%">
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/ganel.png?raw=true"
-           alt="LIMCCA" width="20%">
-    </a>
-  </p>
-    </div>
-</div>
+<p align="center">
+  <strong>Main features:</strong><br>
+  Electronic Band Structures · DOS · PDOS · Charge Density · Defect Analysis
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=brunohdmacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+       alt="GitHub Statistics">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohdmacedo&layout=compact&theme=tokyonight"
+       alt="Most Used Languages">
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brunohdmacedo/brunohdmacedo/output/github-contribution-grid-snake2.svg"
+       alt="GitHub Contribution Snake">
+</p>
+
+---
+
+<h2 align="center">🤝 Research Groups and Affiliations</h2>
+
+<p align="justify">
+My academic trajectory has involved interdisciplinary research and collaboration with research groups at UNILA, including activities related to Applied Computing, Materials Characterization, Computational Modeling, and Materials Science.
+</p>
+
+<p align="center">
+  <a href="https://divulga.unila.edu.br/laca/integrantes/" target="_blank">
+    <img src="https://divulga.unila.edu.br/laca/wp-content/uploads/sites/50/2024/10/Laca_logo_transp_quadrado-1-e1728134601258-205x92.png"
+         alt="LACA" width="20%">
+  </a>
+  <a href="https://divulga.unila.edu.br/limcca/" target="_blank">
+    <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/limcca.png?raw=true"
+         alt="LIMCCA" width="20%">
+  </a>
+  <a href="https://brunohdmacedo.tech" target="_blank">
+    <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/logo-bhdm.png?raw=true"
+         alt="Research and Development" width="20%">
+  </a>
+  <a href="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/ganel.png" target="_blank">
+    <img src="https://github.com/brunohdmacedo/brunohdmacedo/blob/main/ganel.png?raw=true"
+         alt="GANEL" width="20%">
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/bruno-hd-macedo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/brunohdmacedo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.youtube.com/@CanaldoBHS" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/brunohdmacedo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=002BDE58B97AE81355100D484F82BABF#">
+    <img src="https://img.shields.io/badge/Curriculum-Lattes-00599C?style=for-the-badge" alt="Curriculum Lattes">
+  </a>
+</p>
+
+<p align="center">
+  <i>Exploring the intersection of Physics, Artificial Intelligence, and Materials Science.</i><br>
+  <strong>Science, computation, and innovation for a sustainable future. 🔬</strong>
+</p>
