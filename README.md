@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi, I'm Bruno H. D. Macedo! 👋</h1>
+# Hi, I'm Bruno H. D. Macedo! 👋
 
 <p align="center">
   <a href="https://brunohdmacedo.tech" title="Personal Website">
@@ -15,7 +14,9 @@
 <p align="center">
   <a href="https://brunohdmacedo.tech">Personal Website</a> ·
   <a href="https://brunohdmacedo.tech/bruma/">Bruma DFT</a> ·
-  <a href="https://github.com/brunohdmacedo">GitHub</a>
+  <a href="https://github.com/brunohdmacedo">GitHub</a> ·
+  <a href="https://bit.ly/3VlPBAE">LinkedIn</a> ·
+  <a href="http://lattes.cnpq.br/7842985016416991">Curriculum Lattes</a>
 </p>
 
 <p align="center">
@@ -123,13 +124,6 @@ Bruma DFT is a computational project focused on processing and visualizing CASTE
        alt="Most Used Languages">
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brunohdmacedo/brunohdmacedo/output/github-contribution-grid-snake2.svg"
-       alt="GitHub Contribution Snake">
-</p>
-
 ---
 
 <h2 align="center">🤝 Research Groups and Affiliations</h2>
@@ -162,7 +156,7 @@ My academic trajectory has involved interdisciplinary research and collaboration
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/bruno-hd-macedo" target="_blank">
+  <a href="https://bit.ly/3VlPBAE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/brunohdmacedo" target="_blank">
@@ -174,8 +168,8 @@ My academic trajectory has involved interdisciplinary research and collaboration
   <a href="https://www.instagram.com/brunohdmacedo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=002BDE58B97AE81355100D484F82BABF#">
-    <img src="https://img.shields.io/badge/Curriculum-Lattes-00599C?style=for-the-badge" alt="Curriculum Lattes">
+  <a href="http://lattes.cnpq.br/7842985016416991" target="_blank">
+    <img src="https://img.shields.io/badge/Curriculum_Lattes-00599C?style=for-the-badge" alt="Curriculum Lattes">
   </a>
 </p>
 
